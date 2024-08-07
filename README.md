@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @GideonEpa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Who am I?
 
-<!---
-GideonEpa/GideonEpa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a 24-year-old male living in Brisbane, Australia.
+Currently, I am studying a course in Web Development through CodeAcademy.
+The technologies covered in the course are:
+- HTML
+- CSS
+- JavaScript
+- React
+- Redux
+- JSX
+
+I hope to find my way into the Web Development sector!
